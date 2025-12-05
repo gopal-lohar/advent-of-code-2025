@@ -9,3 +9,5 @@ A new language every day
 [Day 3](https://adventofcode.com/2025/day/3) - C++
 
 [Day 4](https://adventofcode.com/2025/day/4) - Python
+
+[Day 5](https://adventofcode.com/2025/day/5) - Bash
