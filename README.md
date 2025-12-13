@@ -13,3 +13,5 @@ A new language every day
 [Day 5](https://adventofcode.com/2025/day/5) - Bash
 
 [Day 6](https://adventofcode.com/2025/day/6) - Java
+
+[Day 7](https://adventofcode.com/2025/day/6) - Rust
